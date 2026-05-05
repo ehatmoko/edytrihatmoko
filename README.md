@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edytrihatmoko
+- 👋 Hi, I’m @et
 - 👀 I’m interested in geospatial information
 - 🌱 I’m currently learning GIS for coastal and ocean monitoring
 - 💞️ I’m looking to collaborate on coastal and ocean monitoring
